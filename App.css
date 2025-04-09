@@ -1,0 +1,5 @@
+.App { text-align: center; font-family: Arial, sans-serif; }
+header { background: #111; color: #fff; padding: 1rem; }
+main { margin: 2rem; }
+button { margin: 0.5rem; padding: 0.75rem 1.5rem; border: none; cursor: pointer; }
+button:hover { opacity: 0.9; }
